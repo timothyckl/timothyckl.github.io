@@ -1,0 +1,43 @@
+---
+title: "GenAI Reflection"
+---
+
+# Reflection on using GenAI
+
+For this lab, I used **Pi Coding Agent** to help scaffold the Quarto website, create pages, and automate some of the more tedious setup work.
+
+## How GenAI helped
+
+Pi Coding Agent was useful for:
+
+- Creating the default Quarto website structure.
+- Setting up multiple pages in a consistent format.
+- Editing navigation and page files efficiently.
+- Turning my ideas into readable Markdown sections.
+- Reducing repetitive work so that I could focus on the website's direction.
+
+In this sense, GenAI acted like a technical assistant. It helped with implementation speed, but it did not replace the decisions behind the website.
+
+## What remained human-led
+
+The most important parts of the process were still based on my own judgement:
+
+- Choosing what personal information to share.
+- Deciding which projects best represent my interests.
+- Selecting GitHub visualisations as the data story.
+- Shaping the tone and purpose of the website.
+- Reviewing whether the generated content matched my intent.
+
+> Coding is the easy part; the human ideas, decisions, and creative direction are what make the website personal.
+
+This includes the styling and content choices. The tool could generate drafts and automate edits, but I still had to decide what was meaningful, accurate, and appropriate to publish.
+
+## What was useful or challenging
+
+The most useful part was the speed of iteration. Instead of manually creating every page from scratch, I could describe the intended structure and have the agent produce a working version quickly.
+
+The main challenge was making sure the website still sounded like me. GenAI can produce polished text, but polished text is not always personal or precise. I had to guide the content so that it reflected my actual interests in AI research, tooling, and experimentation.
+
+## Takeaway
+
+My takeaway is that GenAI is most valuable when used as a collaborator for execution, not as a substitute for thinking. It can help scaffold, format, and accelerate work, but the responsibility for direction, accuracy, and reflection remains with the human user.

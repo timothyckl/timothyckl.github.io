@@ -1,0 +1,50 @@
+---
+title: "Projects"
+---
+
+# Projects I am proud of
+
+This page highlights three projects that reflect different parts of my interests: machine learning infrastructure, developer tooling, and practical AI systems.
+
+## Project overview
+
+| Project | Focus | Technologies |
+|---|---|---|
+| [sbss](https://github.com/timothyckl/sbss) | Machine learning dataset splitting | Python, NumPy, SciPy, PyPI |
+| [tau.nvim](https://github.com/timothyckl/tau.nvim) | Developer workflows and editor ergonomics | Lua, Neovim API, Telescope.nvim |
+| [pi-chroma](https://github.com/timothyckl/pi-chroma) | Embeddings and local semantic search | Python, vector databases, AI tooling |
+
+## [sbss](https://github.com/timothyckl/sbss)
+
+**sbss** is a Python library implementing **Similarity-Based Stratified Splitting (SBSS)** for creating more representative machine learning dataset splits.
+
+- **Technologies:** Python, NumPy, SciPy, PyPI
+- **Why it matters:** Dataset splitting affects how reliably we evaluate machine learning systems.
+
+The project reflects my interest in **machine learning infrastructure**, **reproducibility**, and applied AI research. It explores how better splitting strategies can support more meaningful evaluation workflows.
+
+## [tau.nvim](https://github.com/timothyckl/tau.nvim)
+
+**tau.nvim** is a Neovim plugin/configuration project focused on improving developer workflows and editor ergonomics through Lua-based tooling.
+
+- **Technologies:** Lua, Neovim API, Telescope.nvim
+- **Why it matters:** A good development environment reduces friction and helps ideas move faster from thought to implementation.
+
+This project explores extensible developer tooling and terminal-native workflows within the Neovim ecosystem. It reflects my interest in **productivity systems**, customization, and open-source tooling.
+
+## [pi-chroma](https://github.com/timothyckl/pi-chroma)
+
+**pi-chroma** is an experimental project exploring embeddings, retrieval systems, and local semantic search workflows inspired by vector database systems such as Chroma.
+
+- **Technologies:** Python, vector databases, embeddings, AI tooling
+- **Why it matters:** Retrieval systems are becoming an important part of practical AI workflows.
+
+This project was built as part of my exploration into **retrieval-augmented systems** and local-first AI tooling. It demonstrates my interest in semantic search, intelligent workflows, and practical AI infrastructure.
+
+## What connects these projects?
+
+Although the projects are technically different, they share a common theme:
+
+> I enjoy building tools that make research, development, and experimentation more reliable and expressive.
+
+Whether the work involves dataset splitting, editor workflows, or retrieval systems, I am drawn to projects that improve the way people think, build, and evaluate systems.

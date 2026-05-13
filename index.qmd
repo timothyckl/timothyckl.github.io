@@ -1,7 +1,28 @@
 ---
-title: "website"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Hi, I'm Timothy
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm pursuing a **BSc (Hons) in Applied Artificial Intelligence** at the Singapore Institute of Technology.
+
+My research interests include:
+
+- **AI Safety**
+- **AI Alignment**
+- **Mechanistic Interpretability**
+
+I enjoy experimenting with ideas, replicating research, and sharpening my thinking. I am working toward a career in **AI research**, with the goal of contributing to meaningful and well-grounded intelligent systems.
+
+## Find me online
+
+- [GitHub: timothyckl](https://github.com/timothyckl)
+
+## What this site contains
+
+This Quarto website is a small personal portfolio for AAI1001 Lab 02. It includes:
+
+1. A short introduction to who I am.
+2. A portfolio-style project page.
+3. A live GitHub-based data visualisation page.
+4. A reflection on using GenAI as part of the website-building process.
