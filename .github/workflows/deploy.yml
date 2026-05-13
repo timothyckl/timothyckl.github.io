@@ -34,7 +34,8 @@ jobs:
 
       - name: Install R packages
         run: |
-          install2.r --error --skipinstalled knitr rmarkdown
+          Rscript -e 'install.packages(c("knitr", "rmarkdown"), repos = Sys.getenv("RSPM"))'
+          Rscript -e 'stopifnot(requireNamespace("knitr", quietly = TRUE), requireNamespace("rmarkdown", quietly = TRUE))'
 
       - name: Render site
         run: quarto render
